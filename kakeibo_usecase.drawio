@@ -22,34 +22,34 @@
         <mxCell id="WoTdFIvGoWuvpCkUA2eD-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="220" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WoTdFIvGoWuvpCkUA2eD-7" value="収支編集&lt;div&gt;（入力・削除）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WoTdFIvGoWuvpCkUA2eD-7" value="収支編集する&lt;div&gt;（入力・削除）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WoTdFIvGoWuvpCkUA2eD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WoTdFIvGoWuvpCkUA2eD-4" target="WoTdFIvGoWuvpCkUA2eD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XMnFgntaKjzUBgVNBEmI-1" value="ログイン" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="25" width="70" height="30" as="geometry" />
+        <mxCell id="XMnFgntaKjzUBgVNBEmI-1" value="ログインする" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="25" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMnFgntaKjzUBgVNBEmI-2" value="ログアウト" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="95" width="80" height="30" as="geometry" />
+        <mxCell id="XMnFgntaKjzUBgVNBEmI-2" value="ログアウトする" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="95" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMnFgntaKjzUBgVNBEmI-3" value="新規登録" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="235" width="70" height="30" as="geometry" />
+        <mxCell id="XMnFgntaKjzUBgVNBEmI-3" value="新規登録する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="235" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMnFgntaKjzUBgVNBEmI-4" value="パスワードリセット" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="165" width="130" height="30" as="geometry" />
+        <mxCell id="XMnFgntaKjzUBgVNBEmI-4" value="パスワードリセットする" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="165" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="umVpwB8pKI1dElh54bwU-1" value="収支一覧表示&lt;div&gt;（グラフ表示）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="umVpwB8pKI1dElh54bwU-1" value="収支一覧表示する&lt;div&gt;（グラフ表示）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="umVpwB8pKI1dElh54bwU-2" value="退会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="umVpwB8pKI1dElh54bwU-2" value="退会する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="umVpwB8pKI1dElh54bwU-3" value="目標金額・&lt;div&gt;達成状況表示&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="umVpwB8pKI1dElh54bwU-3" value="目標金額・&lt;div&gt;達成状況表示する&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="420" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="umVpwB8pKI1dElh54bwU-4" value="ユーザー一覧表示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="umVpwB8pKI1dElh54bwU-4" value="ユーザー一覧表示する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="450" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="umVpwB8pKI1dElh54bwU-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WoTdFIvGoWuvpCkUA2eD-3">
